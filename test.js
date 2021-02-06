@@ -1,3 +1,5 @@
-let letter = 'd';
+let x = 1;
 
-console.log(letter.charCodeAt(0));
+if (!(x % 1)) {
+  console.log('true');
+}
